@@ -23,4 +23,5 @@ React + Tailwind + Recharts - Pure frontend, no backend needed.
 2. Click Scan
 3. Get full health report + Fix-It AI checklist
 
-Made by Shivam Kapoor
+Made by Shivam Gohar
+
