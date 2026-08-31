@@ -13,7 +13,7 @@ A novel tool that analyzes any GitHub repo for hidden risks that GitHub Insights
 - **Code Knowledge Map**
 
 ### Live Demo
-Hosted on GitHub Pages: `https://YOUR_USERNAME.github.io/RepoMRI/`
+Hosted on GitHub Pages: `https://shivamgohar.github.io/RepoMRI/`
 
 ### Tech Stack
 React + Tailwind + Recharts - Pure frontend, no backend needed.
